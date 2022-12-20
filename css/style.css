@@ -1896,10 +1896,10 @@ img
   display: block;
 }
 .firstp {
-  font-size: 30px;
+  font-size: 30px !important;
 }
 .secondp {
-  font-size: 20px;
+  font-size: 20px !important;
 }
 fieldset {
   border: none;
