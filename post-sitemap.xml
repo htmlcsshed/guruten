@@ -9,7 +9,23 @@
 
 
     <url>
-        <loc>https://htmlcsshed.github.io/highschool.guruten/2022/12/19/new-page2/</loc>
+        <loc>https://htmlcsshed.github.io/highschool.guruten/2023/02/06/gurutenfreelife/</loc>
+        <lastmod>2023-02-06T07:03:23.494Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://htmlcsshed.github.io/highschool.guruten/2023/02/04/lillalotta/</loc>
+        <lastmod>2023-02-06T06:56:53.907Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://htmlcsshed.github.io/highschool.guruten/2022/12/19/firstpage/</loc>
         <lastmod>2022-12-20T08:51:55.689Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -17,7 +33,7 @@
     </url>
 
     <url>
-        <loc>https://htmlcsshed.github.io/highschool.guruten/2022/12/20/new-page1/</loc>
+        <loc>https://htmlcsshed.github.io/highschool.guruten/2022/12/20/plan/</loc>
         <lastmod>2022-12-19T18:03:04.097Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

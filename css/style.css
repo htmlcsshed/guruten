@@ -1985,6 +1985,9 @@ h2 {
   border-left: 7px solid #ea6753;
   padding-left: 20px !important;
 }
+h2:not(.blog-motto) {
+  margin-top: 80px !important;
+}
 .pic1 {
   float: left;
 }
@@ -2016,4 +2019,98 @@ h2 {
 .article span {
   color: #4eeaff;
   font-weight: 600;
+}
+.balloon5 {
+  width: 100%;
+  margin: 1.5em 0;
+  overflow: hidden;
+}
+.balloon5 .faceicon {
+  float: left;
+  margin-right: -90px;
+  width: 80px;
+}
+.balloon5 .faceicon img {
+  width: 100%;
+  height: auto;
+  border: solid 3px #d7ebfe;
+  border-radius: 50%;
+  padding-top: 0;
+}
+.balloon5 .chatting {
+  width: 100%;
+}
+.says {
+  display: inline-block;
+  position: relative;
+  margin: 5px 0 0 105px;
+  padding: 17px 13px;
+  border-radius: 12px;
+  background: #d7ebfe;
+}
+.says:after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  top: 18px;
+  left: -24px;
+  border: 12px solid transparent;
+  border-right: 12px solid #d7ebfe;
+}
+.says p {
+  margin: 0;
+  padding: 0;
+}
+.sayss {
+  display: inline-block;
+  position: relative;
+  margin: 5px 0 0 105px;
+  padding: 17px 13px;
+  border-radius: 12px;
+  background: #ffd9b3;
+}
+.bballoon5 {
+  width: 100%;
+  margin: 1.5em 0;
+  overflow: hidden;
+}
+.bballoon5 .ffaceicon {
+  float: left;
+  margin-right: -90px;
+  width: 80px;
+}
+.bballoon5 .ffaceicon img {
+  width: 100%;
+  height: auto;
+  border: solid 3px #ffd9b3;
+  border-radius: 50%;
+  padding-top: 0;
+}
+.bballoon5 .cchatting {
+  width: 100%;
+}
+.sayss:after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  top: 18px;
+  left: -24px;
+  border: 12px solid transparent;
+  border-right: 12px solid #ffd9b3;
+}
+.sayss p {
+  margin: 0;
+  padding: 0;
+}
+h3 {
+  border-bottom: solid 4px #ea6753;
+  margin-top: 30px !important;
+}
+.tim {
+  width: 20%;
+  height: auto;
+  border: solid 3px #ffd9b3;
+  border-radius: 50%;
+  margin-left: 0 !important;
+  padding-top: 0 !important;
 }
